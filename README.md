@@ -220,4 +220,4 @@ Supreme Commander is completely free to download and play, with all features and
 Ready to dominate the battlefield? Click the download button above and start your journey with Supreme Commander today!
 
 ---
-**Last updated:** 2026-09-21 03:40:37 UTC
+**Last updated:** 2026-09-21 09:40:34 UTC
